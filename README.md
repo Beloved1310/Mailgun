@@ -1,5 +1,5 @@
 
-# Unveiling Mailgun's Untapped Potential: A Developer's Perspective
+# What Mailgun does not think : A Developer's Perspective
 
 ## Introduction
 In the digital age, communication is the key, and email remains a cornerstone of modern communication. Mailgun, a popular email service provider, offers developers a powerful toolset for managing transactional emails efficiently. However, delving into Mailgun's documentation reveals gaps and inconsistencies that hinder developers' understanding and adoption. In this article, we explore what Mailgun might not be fully aware of from a developer's viewpoint and suggest improvements to enhance the integration experience.
@@ -12,9 +12,7 @@ To address these issues, Mailgun could benefit from a more aesthetically pleasin
 
 [Mailgun Node.js Integration Guide](https://www.mailgun.com/blog/email/how-to-send-transactional-email-in-a-nodejs-app-using-the-mailgun-api/)
 
-![MailgunCode](https://drive.google.com/file/d/11yKaFny0H1OueJiaqRpVZZ1GASWF3dg4/view?usp=sharing)
-
-![Alt Text](https://drive.google.com/file/d/11yKaFny0H1OueJiaqRpVZZ1GASWF3dg4/view?usp=sharing)
+![Alt Text](./mailgun)
 
 ```javascript
 // Import required modules
