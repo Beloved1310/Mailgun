@@ -14,6 +14,7 @@ To address these issues, Mailgun could benefit from a more aesthetically pleasin
 
 ![MailgunCode](https://drive.google.com/file/d/11yKaFny0H1OueJiaqRpVZZ1GASWF3dg4/view?usp=sharing)
 
+![Alt Text](https://drive.google.com/file/d/11yKaFny0H1OueJiaqRpVZZ1GASWF3dg4/view?usp=sharing)
 
 ```javascript
 // Import required modules
