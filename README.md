@@ -12,7 +12,7 @@ To address these issues, Mailgun could benefit from a more aesthetically pleasin
 
 [Mailgun Node.js Integration Guide](https://www.mailgun.com/blog/email/how-to-send-transactional-email-in-a-nodejs-app-using-the-mailgun-api/)
 
-![Alt Text](./mailgun)
+![Rough-Code](./mailgun.png)
 
 ```javascript
 // Import required modules
